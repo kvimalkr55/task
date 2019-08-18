@@ -1,0 +1,19 @@
+.image-upload>input {
+    display: none;
+  }
+
+  .modal-header{
+    color:white;
+}
+
+.close{
+
+    margin-right: 7%;
+    background: white;
+    border-radius: 50%;
+    width: 25px;
+    text-align: center;
+    margin-top: 1%;
+    padding: 0px;
+
+}
